@@ -1,5 +1,6 @@
 # web-template
-***
+A simple website.
+
 ## Technologies Used
 * Javascript
 * HTML
