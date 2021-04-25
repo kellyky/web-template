@@ -25,4 +25,4 @@ I've since created a shell script that automates most of this (it just depends o
 ## Issues
 I don't think the (empty) img directory made it from my system here to GitHub. 
 
-Relies on specific bootstrap/jquery versions. These files may need to be updated. 
+Relies on specific bootstrap/jquery versions. These files may need to be updated if you want to use them, removed if you don't.
